@@ -17,7 +17,7 @@ title: Airtable and Jekyll Demo
 email: zach.dyer@gmail.com
 description: A demonstration of how I can connect to an airtable database.
 baseurl: "/airtable-get-demo" # the subpath of your site, e.g. /blog
-url: "https://zachdyer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://zachdyer.github.io/airtable-get-demo" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zachdyer
 github_username:  zachdyer
 
