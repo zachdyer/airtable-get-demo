@@ -5,8 +5,6 @@ var airtable = {
     json: null,
     dom: document.querySelector("#airtable"),
     init: function() {
-        //this.json = new this.Request(this.endpoint + "Users" + this.auth);
-        // this.json = new this.Request(this.endpoint + "Users" + this.auth, callback);
         var users = this.table("Users");
     },
     request: function(call, callback) {
